@@ -7,10 +7,10 @@ A modernized and fully updated shipping solution for **RTAbiz** ([RTAbiz Shippin
 
 ## **Project Overview**  
 🚀 **Updated & Published for RTAbiz**  
-- 🔹 Developed and optimized both the customer portal and mobile app  
-- 🔹 Enhanced package tracking and delivery management  
-- 🔹 Improved UI/UX for a seamless experience  
-- 🔹 Optimized for performance, reliability, and security  
+🔹 Developed and optimized both the customer portal and mobile app  
+🔹 Enhanced package tracking and delivery management  
+🔹 Improved UI/UX for a seamless experience  
+🔹 Optimized for performance, reliability, and security  
 
 ## **Features**  
 ✅ **Real-time package tracking** – Monitor shipments effortlessly  
